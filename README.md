@@ -6,6 +6,9 @@ It's small size and open source nature makes sure that everyone can use it the w
 
 And when you complete that,it's easy to use android app will allow even the most inexperienced users to enjoy it!
 
+![Front of board](https://i.ibb.co/vZMPmB1/autosave-solar-battery.png)
+![Back of board](https://i.ibb.co/d51JKDj/autosave-solar-battery1.png)
+
 
 # Why did you name it that? 
 Boreas is the roman god of the cool north wind. I believe that is related to this device.
