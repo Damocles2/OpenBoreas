@@ -2,7 +2,7 @@
 OpenBoreas is a smart solar/battery powered weather station control board desgined for everyone!
 With wifi connectivity,40.4ma power consumption (that's a 100 hours of use from a a few hours of sunlight and a 4000mah battery!) and others impressive features,this little board is sure to fit your needs!
 
-It's small size and open source nature makes sure that everyone can use it the way they please! Just set you wifi network name in it,connect it to a solar panel and battery and you're all set!
+It's small size and open source nature makes sure that everyone can use it the way they please! Just connect it to a solar panel and battery and you're all set!
 
 And when you complete that,it's easy to use android app will allow even the most inexperienced users to enjoy it!
 
